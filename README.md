@@ -30,7 +30,8 @@ This project predicts house prices in Bengaluru using machine learning. It inclu
 
 Interactive Power BI report providing insights into location-wise pricing trends, BHK distribution, average prices, and more.
 
-📎 [Download Bengaluru_House_Price_Report.pbix](Bengaluru_House_Price_Report.pbix)
+[Download Bengaluru_House_Price_Report.pbix](assets/Bengaluru_House_Price_Report.pbix)
+
 
 ---
 
