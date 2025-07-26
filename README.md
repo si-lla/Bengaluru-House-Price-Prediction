@@ -16,20 +16,15 @@ This project predicts house prices in Bengaluru using machine learning. It inclu
 
 ## 📸 Screenshots
 
-### 1. Exploratory Data Analysis (EDA)
+### 🧠 EDA
 ![EDA](screenshots/eda.png)
 
----
-
-### 2. Prediction Web Interface
-![Prediction UI](screenshots/prediction_ui.png)
-
----
-
-### 3. Power BI Dashboard
+### 📊 Power BI Report
 ![Power BI](screenshots/Bengaluru_House_Price_Report.png)
 
----
+### 💻 Prediction UI
+![UI](screenshots/prediction_ui.png)
+
 
 ## 📊 Power BI Report
 
@@ -51,6 +46,7 @@ pip install -r requirements.txt
 Launch the Streamlit app:
 
 streamlit run app.py
+
 💡 Project Highlights
 Real estate dataset cleaning and preprocessing
 
